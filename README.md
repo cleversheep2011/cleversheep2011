@@ -2,11 +2,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleversheep2011&layout=compact)
 
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=cleversheep2011&show_icons=true&theme=dark&include_all_commits=true)
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=cleversheep2011&show_icons=true&include_all_commits=true)
 
 ## Team
 
-([SheepCloud Studio](sheepcloud.online)
+([SheepCloud Studio](sheepcloud.online))
 
 ## About More
 A junior high school student in Shenyang NO.126 Middle School.
