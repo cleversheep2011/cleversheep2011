@@ -6,7 +6,7 @@
 
 ## Team
 
-[SheepCloud Studio](javascript::alert("There isn't any avilable account to open."))
+([SheepCloud Studio](javascript::alert("There isn't any avilable account to open."))
 
 ## About More
 A junior high school student in Shenyang NO.126 Middle School.
