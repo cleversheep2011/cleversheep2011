@@ -6,10 +6,10 @@
 
 ## Team
 
-([SheepCloud Studio](sheepcloud.online))
+SheepCloud Studio (No Website)
 
 ## About More
-A junior high school student in Shenyang NO.126 Middle School.
+A junior high school student in China Shenyang NO.126 Middle School.
 Now not only mainly learning Informatics but also other technology such as Web Development.
 I will be more hard to facing the challange in my way.
 ([own blog (developing)](sheepcloud.online))
